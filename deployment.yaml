@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: shipping-app
-          image: 206798921196.dkr.ecr.us-east-1.amazonaws.com/ecr_demo_obli:shipping
+          image: 206798921196.dkr.ecr.us-east-1.amazonaws.com/ecr_demo_obli:shipping_devops
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
