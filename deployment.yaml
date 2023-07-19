@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: obligatorio-BE-Shipping-devops
+  name: obligatorio-be-shipping-devops
   labels:
     app: shipping-app
 spec:
